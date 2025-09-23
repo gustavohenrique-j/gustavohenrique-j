@@ -1,4 +1,4 @@
-## Ola! Eu sou o Gustavo Romanop
+## Ola! Eu sou o Gustavo Romano
 
 - 🌱 I’m currently learning Java.
 
